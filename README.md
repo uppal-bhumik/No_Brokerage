@@ -8,13 +8,13 @@ The entire project was built and tested in under 3 days, focusing on a robust ba
 
 ## 🚀 Live Demo
 
-*(Optional: Add your live Streamlit deployment link here after we deploy it)*
+https://no-brokerage.streamlit.app/
 
 ---
 
 ## 📹 Loom Demo
 
-*(Optional: Add your Loom video link here)*
+https://www.loom.com/share/17f255ce022c4f91aaff090a842a9905
 
 ---
 
@@ -58,8 +58,8 @@ This project consists of two separate applications (backend and frontend) that m
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/uppal-bhumik/No_Brokerage.git
+    cd https://github.com/uppal-bhumik/No_Brokerage
     ```
 
 2.  **Create the environment file:**
