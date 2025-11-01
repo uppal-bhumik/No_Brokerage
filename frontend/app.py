@@ -7,8 +7,8 @@ from typing import Dict, List, Optional
 # CONFIGURATION
 # ============================================================================
 
-BACKEND_URL = "httpss://no-brokerage-gyl7.onrender.com/chat"
-BACKEND_HEALTH_URL = "httpss://no-brokerage-gyl7.onrender.com/health"
+BACKEND_URL = "https://no-brokerage-gyl7.onrender.com/chat"
+BACKEND_HEALTH_URL = "https://no-brokerage-gyl7.onrender.com/health"
 
 # Page configuration
 st.set_page_config(
